@@ -4,7 +4,7 @@
 
 Computer Science and Engineering (AI/ML) undergraduate focused on building practical software, solving algorithmic problems, and exploring the intersection of software development and artificial intelligence.
 
-Currently developing full-stack applications while strengthening Data Structures & Algorithms, Java, C++, Python, and backend development.
+Currently strengthening Data Structures & Algorithms while building full-stack applications and exploring AI/ML-based solutions.
 
 <p align="left">
   <a href="https://linkedin.com/in/manikanta079">
@@ -30,8 +30,8 @@ Currently developing full-stack applications while strengthening Data Structures
 - 💻 Interested in Software Development, Full-Stack Development and AI/ML
 - 🧠 Actively practicing Data Structures & Algorithms
 - 🚀 Building projects focused on solving practical problems
-- 🔍 Interested in writing clean, maintainable and efficient code
-- 📚 Continuously improving problem-solving and software engineering skills
+- 🔍 Interested in clean, maintainable and efficient software
+- 📚 Continuously improving problem-solving and development skills
 - 💼 Preparing for Software Engineering and AI/ML internships
 
 ---
@@ -44,8 +44,7 @@ Currently developing full-stack applications while strengthening Data Structures
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### Core Computer Science
@@ -64,19 +63,26 @@ Currently developing full-stack applications while strengthening Data Structures
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### Backend & Database
+### Backend
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### Database
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### AI / Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/AI%2FML-181717?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web%20Speech%20API-4285F4?style=for-the-badge"/>
 </p>
 
 ### Tools
@@ -92,13 +98,13 @@ Currently developing full-stack applications while strengthening Data Structures
 
 ## Featured Work
 
-### LabMate — Virtual Lab Assistant
+### 🔬 LabMate — Virtual Lab Assistant
 
 A virtual laboratory assistant designed to help students understand laboratory experiments through structured explanations, interactive workflows and supporting tools.
 
-**Current stack**
+**Current Stack**
 
-`HTML` `CSS` `JavaScript` `Node.js` `PostgreSQL`
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `Oracle` `SQL`
 
 **Focus**
 
@@ -106,42 +112,33 @@ A virtual laboratory assistant designed to help students understand laboratory e
 - Interactive laboratory workflows
 - Experiment data management
 - Student-oriented learning experience
+- Full-stack application development
 
-**Status:** 🚧 Currently building
-
----
-
-### AI-Assisted Smart Calculator
-
-An intelligent calculator that accepts mathematical queries and supports voice-based interaction.
-
-**Technology**
-
-`HTML` `CSS` `JavaScript` `Web Speech API` `AI Integration`
-
-**Highlights**
-
-- Natural-language mathematical input
-- Voice-based interaction
-- Speech recognition
-- Calculation history
-- Interactive user interface
-
-**Status:** ✅ Project completed
+**Status:** 🚧 Currently Building
 
 ---
 
-### VERITAS-OMNI
+### 🧠 VERITAS-OMNI
 
-An AI/ML-focused project currently maintained as part of my development portfolio.
+**InnovaHack Chapter-1 — Hackathon Project**
 
-**Status:** 🔬 Exploring & improving
+A project developed during **InnovaHack Chapter-1**, focused on applying AI/ML and software development concepts to a practical problem.
+
+**Focus**
+
+- Artificial Intelligence
+- Machine Learning
+- Software Development
+- Problem Solving
+- Real-world application
+
+**Status:** 🏆 Hackathon Project
 
 ---
 
 ## Problem Solving
 
-I regularly practice algorithmic problem solving using C++ and focus on building strong fundamentals in:
+I regularly practice algorithmic problem solving using C++ and focus on strengthening my fundamentals in:
 
 - Arrays
 - Strings
@@ -177,12 +174,13 @@ I regularly practice algorithmic problem solving using C++ and focus on building
 
 ## Currently Building
 
-My current development focus is centered around creating internship-ready projects rather than tutorial-based applications.
+My current development focus is centered around creating practical, internship-ready projects while strengthening core software engineering skills.
 
 ### Software Development
 
 - Full-stack web applications
 - REST APIs
+- Backend development
 - Database-driven applications
 - Clean and maintainable code
 
@@ -191,12 +189,14 @@ My current development focus is centered around creating internship-ready projec
 - Practical AI applications
 - Machine learning workflows
 - AI-assisted software systems
+- Exploring AI/ML integration with software development
 
 ### Problem Solving
 
 - Data Structures & Algorithms
 - Dynamic Programming
 - Competitive Programming
+- Algorithmic problem solving
 
 ---
 
@@ -212,7 +212,7 @@ Aditya College of Engineering and Technology
 
 ## What I'm Working Towards
 
-My goal is to develop strong software engineering fundamentals through:
+My current learning path is focused on combining strong problem-solving fundamentals with practical software development.
 
 ```text
 Problem Solving
@@ -220,6 +220,8 @@ Problem Solving
 Data Structures & Algorithms
       ↓
 Software Development
+      ↓
+Backend Development
       ↓
 Full-Stack Applications
       ↓
