@@ -132,7 +132,7 @@ A project developed during **InnovaHack Chapter-1**, focused on applying AI/ML a
 - Problem Solving
 - Real-world application
 
-**Status:** 🏆 Hackathon Project
+**Status:** Hackathon Project
 
 ---
 
