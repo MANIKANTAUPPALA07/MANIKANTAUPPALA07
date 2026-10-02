@@ -1,49 +1,62 @@
-# Hi, I'm Phani Naga Manikanta Uppala 👋
+# Phani Naga Manikanta Uppala
 
-### B.Tech CSE (AI/ML) Student | Software Development • AI/ML • DSA
+### Software Developer | AI/ML | DSA | Full-Stack With Python
 
-I’m a B.Tech CSE (AI/ML) student interested in building real-world software, AI/ML applications, and solving Data Structures & Algorithms problems. I'm currently focused on strengthening my development skills and building internship-ready projects.
+Computer Science and Engineering (AI/ML) undergraduate focused on building practical software, solving algorithmic problems, and exploring the intersection of software development and artificial intelligence.
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+Currently developing full-stack applications while strengthening Data Structures & Algorithms, Java, C++, Python, and backend development.
+
+<p align="left">
+  <a href="https://linkedin.com/in/manikanta079">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="mailto:uppalamanikanta79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://leetcode.com/u/MANIKANTAUPPALA07/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/manikanta_07">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-- 🎓 B.Tech CSE (AI/ML) student
-- 💻 Interested in Software Development and AI/ML
-- 🧠 Practicing Data Structures & Algorithms
-- 🚀 Building real-world projects for internships
-- 🤖 Exploring Machine Learning and AI applications
-- 🌐 Learning Full-Stack Development
-- ☁️ Interested in Cloud and DevOps
-- 🔧 Improving my problem-solving and coding skills
+- 🎓 B.Tech CSE (AI/ML) — Aditya College of Engineering and Technology
+- 📈 CGPA: 9.02
+- 💻 Interested in Software Development, Full-Stack Development and AI/ML
+- 🧠 Actively practicing Data Structures & Algorithms
+- 🚀 Building projects focused on solving practical problems
+- 🔍 Interested in writing clean, maintainable and efficient code
+- 📚 Continuously improving problem-solving and software engineering skills
+- 💼 Preparing for Software Engineering and AI/ML internships
 
 ---
 
-# 🛠️ Tech Stack
+## Technical Stack
 
-## Languages
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-## Frontend
+### Core Computer Science
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-181717?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-181717?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-181717?style=for-the-badge"/>
+</p>
+
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -51,133 +64,165 @@ I’m a B.Tech CSE (AI/ML) student interested in building real-world software, A
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-## Backend
+### Backend & Database
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-## AI / Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
-
-## Databases
-
-<p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-## Cloud & DevOps
+### AI / Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML-181717?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Speech%20API-4285F4?style=for-the-badge"/>
 </p>
 
-## Tools
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## Featured Work
 
-### 🤖 VERITAS-OMNI
-AI/ML based project focused on building an intelligent application.
+### LabMate — Virtual Lab Assistant
 
-**Tech:** Python • AI/ML
+A virtual laboratory assistant designed to help students understand laboratory experiments through structured explanations, interactive workflows and supporting tools.
 
-### 🧪 LabMate
-Virtual laboratory assistant designed to help students understand laboratory concepts, calculations, simulations and viva preparation.
+**Current stack**
 
-**Tech:** HTML • CSS • JavaScript • Node.js • PostgreSQL • AI
+`HTML` `CSS` `JavaScript` `Node.js` `PostgreSQL`
 
-### 🧠 Machine Learning Projects
+**Focus**
 
-A collection of machine learning projects covering data processing, model building and prediction.
+- Experiment concepts and explanations
+- Interactive laboratory workflows
+- Experiment data management
+- Student-oriented learning experience
 
-**Tech:** Python • Machine Learning • Jupyter
-
----
-
-# 🧩 Problem Solving
-
-### LeetCode
-
-I regularly practice Data Structures & Algorithms and maintain my solutions in C++.
-
-🔗 [LeetCode](https://leetcode.com/)
-
-### Codeforces
-
-Competitive programming practice using C++.
-
-🔗 [Codeforces](https://codeforces.com/)
+**Status:** 🚧 Currently building
 
 ---
 
-# 📚 Currently Learning
+### AI-Assisted Smart Calculator
+
+An intelligent calculator that accepts mathematical queries and supports voice-based interaction.
+
+**Technology**
+
+`HTML` `CSS` `JavaScript` `Web Speech API` `AI Integration`
+
+**Highlights**
+
+- Natural-language mathematical input
+- Voice-based interaction
+- Speech recognition
+- Calculation history
+- Interactive user interface
+
+**Status:** ✅ Project completed
+
+---
+
+### VERITAS-OMNI
+
+An AI/ML-focused project currently maintained as part of my development portfolio.
+
+**Status:** 🔬 Exploring & improving
+
+---
+
+## Problem Solving
+
+I regularly practice algorithmic problem solving using C++ and focus on building strong fundamentals in:
+
+- Arrays
+- Strings
+- Hashing
+- Binary Search
+- Recursion
+- Backtracking
+- Dynamic Programming
+- Graph Algorithms
+- Problem Solving
+
+### Coding Profiles
+
+**LeetCode**  
+200+ problems solved
+
+[View LeetCode Profile](https://leetcode.com/u/MANIKANTAUPPALA07/)
+
+**CodeChef**  
+200+ problems solved
+
+[View CodeChef Profile](https://codechef.com/users/manikanta_097)
+
+**Codeforces**
+
+[View Codeforces Profile](https://codeforces.com/profile/manikanta_07)
+
+**HackerRank**
+
+[View HackerRank Profile](https://hackerrank.com/profile/manikanta_079)
+
+---
+
+## Currently Building
+
+My current development focus is centered around creating internship-ready projects rather than tutorial-based applications.
+
+### Software Development
+
+- Full-stack web applications
+- REST APIs
+- Database-driven applications
+- Clean and maintainable code
+
+### AI / ML
+
+- Practical AI applications
+- Machine learning workflows
+- AI-assisted software systems
+
+### Problem Solving
 
 - Data Structures & Algorithms
 - Dynamic Programming
-- Advanced C++
-- Java
-- Full-Stack Development
-- Machine Learning
-- AI Applications
-- Cloud & DevOps
-- System Design
+- Competitive Programming
 
 ---
 
-# 🎯 2026–2027 Goals
+## Education
 
-- 🚀 Build strong internship-ready projects
-- 🧠 Improve DSA and problem-solving
-- 🤖 Build practical AI/ML applications
-- 🌐 Develop full-stack applications
-- ☁️ Learn cloud deployment and DevOps
-- 💼 Prepare for software development and AI/ML internships
+**B.Tech — Computer Science and Engineering (AI/ML)**  
+Aditya College of Engineering and Technology  
+2024 – 2028
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANIKANTAUPPALA07&show_icons=true&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANIKANTAUPPALA07&theme=dark&hide_border=true"/>
-</p>
+**CGPA:** 9.02
 
 ---
 
-# 🤝 Connect With Me
+## What I'm Working Towards
 
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+My goal is to develop strong software engineering fundamentals through:
 
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+```text
+Problem Solving
+      ↓
+Data Structures & Algorithms
+      ↓
+Software Development
+      ↓
+Full-Stack Applications
+      ↓
+AI / ML Integration
+      ↓
+Real-World Projects
